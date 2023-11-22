@@ -1,1 +1,1 @@
-# CodeClauseInternship_ProjectName
+# CodeClauseInternship_DataScience
